@@ -4,8 +4,9 @@ Catch the Egg
 
 ## Built With
 
-* Android studio
-
+* Java
+##tools
+* Android Studio
 
 
 ## Authors

@@ -6,7 +6,7 @@ Catch the Egg
 
 * Java
 ## Tools
-* Android Studio
+* Eclipse(adt plugin)
 
 
 ## Authors
